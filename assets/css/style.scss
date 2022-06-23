@@ -14,7 +14,7 @@
 /* @import "{{ site.theme }}"; */
 
 body {
-    font-family: Lexend;
+    font-family: ComicSans;
     text-align:left;
     background-image: none;
     background-color: #000000;
@@ -22,7 +22,7 @@ body {
 }
 
 footer {
-    font-family: Lexend;
+    font-family: ComicSans;
     left: 0;
     bottom: 1em;
     width: 100%;
@@ -92,14 +92,6 @@ h6 {
     text-align:center;
 }
 
-ul {
-    text-align:left;
-}
-
-ol {
-    text-align:left;
-}
-
 section {
     display: block;
     border: dashed #006900;
@@ -107,7 +99,6 @@ section {
     padding: 0px 10px;
     color: #0f0;
     background-color: #000;
-    text-align:left;
 }
 
 summary {
@@ -155,7 +146,7 @@ th {
 }
 
 button {
-    font-family: ComicSans;
+    font-family: Lexend;
     background-color: #000000;
     color: #00FF00;
     padding: 10px;
@@ -191,6 +182,7 @@ ul.navbar {
     padding: 0;
     overflow: hidden;
     background-color: #000;
+    font-family: Lexend;
 }
 
 li.navbar {
