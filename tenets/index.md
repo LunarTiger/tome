@@ -14,3 +14,4 @@
   <span style="float:left;"><a href="{{ site.github.url }}">Previous Page</a></span>
   <span style="float:right;"><a href="{{ site.github.url }}/holidays">Next Page</a></span>
 </footer>
+<hr/>
