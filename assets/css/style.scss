@@ -24,12 +24,12 @@ body {
 footer {
     font-family: Lexend;
     left: 0;
-    bottom: 0;
+    bottom: 1em;
     width: 100%;
     text-align:center;
     background-color: #000000;
     color: #00ff00;
-    border-top: 1px dashed #006900;
+    border-top: 1px none;
 }
 
 /* unvisited link */
