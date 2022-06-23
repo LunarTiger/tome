@@ -30,3 +30,8 @@
   <p>Let me delight in carnal pursuits &amp; liberate myself from arbitrary authority.<br/>Tonight is my night;<br/>tomorrow is my day.<br/>Let me greet each with a sense of adventure &amp; purpose.<br/>Let me honour my true nature &amp; inherent beauty.</p>
   <p>Ave Satana</p>
 </section>
+
+<footer>
+  <span style="float:left;"><a href="{{ site.github.url }}/rosary">Previous Page</a></span>
+  <span style="float:right;"><a href="{{ site.github.url }}/sins">Next Page</a></span>
+</footer>
