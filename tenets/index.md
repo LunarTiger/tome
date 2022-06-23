@@ -9,8 +9,3 @@
   <li>People are fallible. If one makes a mistake, one should do one's best to rectify it and resolve any harm that might have been caused.</li>
   <li>Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.</li>
 </ol>
-
-<footer>
-  <span style="float:left;"><a href="{{ site.github.url }}">Previous Page</a></span>
-  <span style="float:right;"><a href="{{ site.github.url }}/holidays">Next Page</a></span>
-</footer>
