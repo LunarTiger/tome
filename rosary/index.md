@@ -28,8 +28,3 @@
     <li>Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.</li>
   </ol>
 </section>
-
-<footer>
-  <span style="float:left;"><a href="{{ site.github.url }}/holidays">Previous Page</a></span>
-  <span style="float:right;"><a href="{{ site.github.url }}/prayers">Next Page</a></span>
-</footer>
