@@ -3,6 +3,7 @@
 <ul>
   <li>To not exercise your free will.</li>
   <li>To suppress the free will of another.</li>
+  <li>To tolerate intolerance.</li>
   <li>To mistake delusions for reality.</li>
   <li>To not make use of life's learning opportunities.</li>
   <li>To not seek out learning opportunities everywhere.</li>
