@@ -9,5 +9,5 @@
 <h1>Non Serviam</h1>
 
 <footer>
-  <span style="float:right;"><a href="{{ site.github.url }}/tenets">Next</a></span>
+  <span style="float:right;"><a href="{{ site.github.url }}/tenets">Next Page</a></span>
 </footer>
