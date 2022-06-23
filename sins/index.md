@@ -14,3 +14,8 @@
   <li>To cause more harm than you already do. Humans cause harm all the time because of what we eat, our footprint on the planet, &amp; our sometimes harmful nature. We must become more conscious of this and try to do less harm.</li>
   <li>To waste resources is to be inconsiderate of the suffering of others and the planet. To consume more than required to maintain the body, to use more fuel than required to stay healthy, to demand goods that are wastfully packaged &amp; to consume foods that are nothing more than empty calories are all part of a vulgar and greedy lifestyle.</li>
 </ul>
+
+<footer>
+  <span style="float:left;"><a href="{{ site.github.url }}/prayers">Previous Page</a></span>
+  <!--<span style="float:right;"><a href="{{ site.github.url }}/">Next Page</a></span>-->
+</footer>
