@@ -17,8 +17,8 @@ body {
     font-family: ComicSans;
     text-align:left;
     background-image: none;
-    background-color: #000000;
-    color: #00be00;
+    background-color: #000;
+    color: #0f0;
 }
 
 footer {
@@ -27,39 +27,10 @@ footer {
     bottom: 1em;
     width: 100%;
     text-align:center;
-    background-color: #000000;
-    color: #00ff00;
+    background-color: #000;
+    color: #0f0;
     border-top: 1px none;
     border-bottom: 1em none;
-}
-
-/* unvisited link */
-a:link {
-    color: #0ac139;
-    text-decoration: underline;
-}
-
-/* visited link */
-a:visited {
-    color: #0ac139;
-    text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-    color: #0ac139;
-    text-decoration: underline;
-}
-
-/* selected link */
-a:active {
-    color: #0ac139;
-    text-decoration: underline;
-}
-
-a {
-    color: #0ac139;
-    text-decoration: underline;
 }
 
 h1 {
@@ -101,8 +72,19 @@ section {
     background-color: #000;
 }
 
-summary {
-    text-align:center;
+a {
+    color: #00be00;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #006969;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #0ff;
+    text-decoration: none;
 }
 
 hr { 
@@ -121,7 +103,7 @@ hr {
 
 mark {
     background-color: #006900;
-    color: #fff;
+    color: #0ff;
 }
 
 table {
@@ -155,6 +137,10 @@ button {
 
 pre {
     overflow: auto;
+}
+
+summary {
+    text-align:center;
 }
 
 div.container {
@@ -204,7 +190,7 @@ li.navbar a {
 
 /* Change the link color to on hover */
 li.navbar a:hover {
-    background-color: #003300;
+    background-color: #030;
 }
 /*------------------------------------*/
 
@@ -227,7 +213,7 @@ li.navbar a:hover {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #009900; 
+    background: #090; 
 }
 
 /*corner where the scrollbars meet*/
