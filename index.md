@@ -7,6 +7,7 @@
 <h1>No Gods<br/>No Masters</h1>
 <hr/>
 <h1>Non Serviam</h1>
+
 <footer>
   <span style="float:right;"><a href="{{ site.github.url }}/tenets">Next</a></span>
 </footer>
