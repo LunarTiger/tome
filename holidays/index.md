@@ -24,3 +24,8 @@
   <p>Celebration of being unconquered by superstition &amp; consistent in the persuit &amp; sharing of knowledge.</p>
   <p>The cult of Sol existed in Rome since its early days as a republic, and Invictus was an epithet used for Jupiter, Mars, &amp; Apollo (among others). The festival celebrated these gods and have also been used to celebrate the winter solstice.</p>
 </section>
+
+<footer>
+  <span style="float:left;"><a href="{{ site.github.url }}/tenets">Previous Page</a></span>
+  <span style="float:right;"><a href="{{ site.github.url }}/rosary">Next Page</a></span>
+</footer>
