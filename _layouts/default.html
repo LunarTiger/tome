@@ -28,20 +28,20 @@
       <div class="container">
         <h2>{{ site.title | default: site.github.repository_name }}</h2>
         <hr />
-        <details><summary>Contents</summary>
+        <details style="text-align:center"><summary>Contents</summary>
           <nav>
             <a href="{{ site.github.url }}">Opening</a> |
             <a href="{{ site.github.url }}/tenets">The_7_Tenets</a> |
             <a href="{{ site.github.url }}/holidays">Holidays</a> |
             <a href="{{ site.github.url }}/rosary">My_Satanic_Rosary</a> |
-            <a href="{{ site.github.url }}/prayers">Prayers</a> |
+            <a href="{{ site.github.url }}/prayers">Prayers</a>
             <!-- <li class="navbar"><a href="{{ site.github.url }}">Nav</a></li> -->
           </nav>
         </details>
         <hr />
       </div>
     </header>
-    <div class="container">
+    <div class="container" style="max-width:420px">
       {{ content }}
     </div>
   </body>
